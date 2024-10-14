@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 nvidia/cuda:12.1.0-runtime-ubuntu20.04
 vllm/vllm-openai:v0.6.2
-substratusai/vllm:v0.6.2
+vllm/vllm-openai:v0.5.4
