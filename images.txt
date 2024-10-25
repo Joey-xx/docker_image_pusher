@@ -7,3 +7,4 @@
 nvidia/cuda:12.1.0-runtime-ubuntu20.04
 vllm/vllm-openai:v0.6.3.post1
 vllm/vllm-openai:v0.5.4
+openmmlab/lmdeploy:latest-cu12
