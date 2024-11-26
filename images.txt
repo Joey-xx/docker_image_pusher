@@ -9,3 +9,4 @@ vllm/vllm-openai:v0.6.3.post1
 vllm/vllm-openai:v0.5.4
 openmmlab/lmdeploy:latest-cu12
 openmmlab/lmdeploy:v0.6.1-cu12
+vllm/vllm-openai:v0.6.4.post1
