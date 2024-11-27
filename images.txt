@@ -5,6 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 nvidia/cuda:12.1.0-devel-ubuntu20.04
-openmmlab/lmdeploy:latest-cu12
-openmmlab/lmdeploy:v0.6.1-cu12
+openmmlab/lmdeploy:v0.6.3-cu12
 vllm/vllm-openai:v0.6.4.post1
