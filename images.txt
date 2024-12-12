@@ -8,4 +8,3 @@ nvidia/cuda:12.1.0-devel-ubuntu20.04
 openmmlab/lmdeploy:v0.6.3-cu12
 vllm/vllm-openai:v0.6.4.post1
 nginx:latest
-python:3.10-slim
