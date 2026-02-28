@@ -9,6 +9,4 @@ openmmlab/lmdeploy:v0.6.3-cu12
 vllm/vllm-openai:v0.7.3
 nginx:latest
 python:3.10-slim-buster
-vllm/vllm-openai:v0.8.2
-vllm/vllm-openai:v0.9.0
-langgenius/dify-api:1.5.0
+vllm/vllm-openai:nightly
