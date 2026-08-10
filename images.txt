@@ -11,3 +11,4 @@ nginx:latest
 python:3.10-slim-buster
 vllm/vllm-openai:nightly
 redis:7-alpine
+vllm/vllm-openai:v0.25.1-x86_64-cu129-ubuntu2404
